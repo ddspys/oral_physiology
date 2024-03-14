@@ -1,0 +1,177 @@
+---
+title: Type of Diabetes
+author: Young Sun Park
+date: March 16, 2024
+date-format: long
+institute: Chosun University Department of Dentistry
+format:
+  revealjs:
+    toc: true
+    toc-depth: 1
+    slide-number: true
+    show-slide-number: all
+    logo: logo.png
+    footer: Oral Physiology 2024
+    css: diabetes.css
+    transition: none
+    bibliography: references.bib
+    citations-hover: true
+---
+
+# Diabetes
+
+## Diabetes
+
+Diabetes is a chronic, metabolic disease characterized by elevated levels of blood glucose (or blood sugar), which leads over time to serious damage to the heart, blood vessels, eyes, kidneys and nerves. [^1]
+
+[^1]: @Diabetes
+
+# Types of Diabetes
+
+## Types of Diabetes [^2]
+
+[^2]: @worldhealthorganizationClassificationDiabetesMellitus2019
+
+-   Type 1 diabetes
+-   Type 2 diabetes
+-   Hybrid forms of diabetes
+-   Other specific types
+-   Unclassified diabetes
+-   Hyperglycaemia first detected during pregnancy
+
+# Type 1 diabetes
+
+## T1DM [^3]
+
+[^3]: @worldhealthorganizationClassificationDiabetesMellitus2019, pp. 13-14
+
+β-cell destruction (mostly immunemediated) and absolute insulin deficiency; onset most common in childhood and early adulthood
+
+# Type 2 diabetes
+
+## T2DM [^4]
+
+[^4]: @worldhealthorganizationClassificationDiabetesMellitus2019, pp. 14-15
+
+Most common type, various degrees of β-cell dysfunction and insulin resistance; commonly associated with overweight and obesity
+
+# Hybrid forms of diabetes
+
+## Slowly evolving, immunemediated diabetes of adults [^5]
+
+[^5]: @worldhealthorganizationClassificationDiabetesMellitus2019, pp. 15-17
+
+Similar to slowly evolving type 1 in adults but more often has features of the metabolic syndrome, a single GAD autoantibody and retains greater β-cell function
+
+## Ketosis-prone type 2 diabetes [^6]
+
+[^6]: @worldhealthorganizationClassificationDiabetesMellitus2019, pp. 15-17
+
+Presents with ketosis and insulin deficiency but later does not require insulin; common episodes of ketosis, not immune-mediated
+
+# Other specific types
+
+## Other specific types [^7]
+
+[^7]: @worldhealthorganizationClassificationDiabetesMellitus2019, pp. 18-22
+
+-   Monogenic diabetes
+-   Diseases of the exocrine pancreas
+-   Endocrine disorders
+-   Drug- or chemical-induced
+-   Uncommon specific forms of immune-mediated diabetes
+-   Other genetic syndromes sometimes associated with diabetes
+
+## Monogenic diabetes [^8]
+
+[^8]: @worldhealthorganizationClassificationDiabetesMellitus2019, pp. 18-22
+
+### Monogenic defects of β-cell function
+
+Caused by specific gene mutations, has several clinical manifestations requiring different treatment, some occurring in the neonatal period, others by early adulthood
+
+### Monogenic defects in insulin action
+
+Caused by specific gene mutations; has features of severe insulin resistance without obesity; diabetes develops when β-cells do not compensate for insulin resistance
+
+## Diseases of the exocrine pancreas [^9]
+
+[^9]: @worldhealthorganizationClassificationDiabetesMellitus2019, pp. 18-22
+
+Various conditions that affect the pancreas can result in hyperglycaemia (trauma, tumor, inflammation, etc.)
+
+## Endocrine disorders [^10]
+
+[^10]: @worldhealthorganizationClassificationDiabetesMellitus2019, pp. 18-22
+
+Occurs in diseases with excess secretion of hormones that are insulin antagonists
+
+## Drug- or chemical-induced [^11]
+
+[^11]: @worldhealthorganizationClassificationDiabetesMellitus2019
+
+Some medicines and chemicals impair insulin secretion or action, some can destroy β-cells
+
+## Infection-related diabetes [^12]
+
+[^12]: @worldhealthorganizationClassificationDiabetesMellitus2019, pp. 18-22
+
+Some viruses have been associated with direct β-cell destruction
+
+## Uncommon specific forms of immune-mediated diabetes [^13]
+
+[^13]: @worldhealthorganizationClassificationDiabetesMellitus2019, pp. 18-22
+
+Associated with rare immune-mediated diseases
+
+## Other genetic syndromes sometimes associated with diabetes [^14]
+
+[^14]: @worldhealthorganizationClassificationDiabetesMellitus2019, pp. 18-22
+
+Many genetic disorders and chromosomal abnormalities increase the risk of diabetes
+
+# Unclassified diabetes
+
+## Unclassified diabetes [^15]
+
+[^15]: @worldhealthorganizationClassificationDiabetesMellitus2019, pp. 23
+
+Used to describe diabetes that does not clearly fit into other categories. This category should be used temporarily when there is not a clear diagnostic category especially close to the time of diagnosis
+
+# Hyperglycaemia first detected during pregnancy
+
+## Hyperglycaemia first detected during pregnancy [^16]
+
+[^16]: @worldhealthorganizationClassificationDiabetesMellitus2019, pp. 23
+
+-   Diabetes mellitus in pregnancy
+-   Gestational diabetes mellitus
+
+## Diabetes mellitus in pregnancy [^17]
+
+
+
+[^17]: @worldhealthorganizationClassificationDiabetesMellitus2019, pp. 23
+
+Type 1 or type 2 diabetes first diagnosed during pregnancy
+
+## Gestational diabetes mellitus [^18]
+
+
+
+[^18]: @worldhealthorganizationClassificationDiabetesMellitus2019, pp. 23
+
+Hyperglycaemia below diagnostic thresholds for diabetes in pregnancy
+
+# Diabetes incidence by group
+
+## Korean vs Worldwide
+
+## Age
+
+## Region(Korea)
+
+## References
+:::{refs}
+
+:::
